@@ -101,7 +101,7 @@ nav {
 /* _____________________________________________________ */
 /* Responsividade (Telas menores que 768px) */
 
-@media screen and (max-width: 768px) 
+@media screen and (max-width: 768px) {
 
     /* Header */
     nav ul {
@@ -136,3 +136,4 @@ nav {
     .title {
       margin-left: -100px;
     }
+} 
